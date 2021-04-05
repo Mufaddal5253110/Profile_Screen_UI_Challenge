@@ -1,7 +1,10 @@
 # Profile Screen UI Challenge
 
+|<img src="https://user-images.githubusercontent.com/60619133/113564562-36126c00-9627-11eb-8fe5-84a3adf431ee.gif" alt="example" width = "220">|
+
 |<img src="https://user-images.githubusercontent.com/60619133/113561839-d914b700-9622-11eb-8d31-79dbaab7c0bd.png" alt="example" width = "220">|
 |<img src="https://user-images.githubusercontent.com/60619133/113561844-db771100-9622-11eb-993f-f72e716cde9a.png" alt="example" width = "220">|
+
 
 
 
