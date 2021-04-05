@@ -1,6 +1,10 @@
-# profile_app_ui_challenge
+# Profile Screen UI Challenge
 
-A new Flutter project.
+|<img src="https://user-images.githubusercontent.com/60619133/109376268-601a9500-78e9-11eb-9626-b3c59c5b8e4e.png" alt="example" width = "220">|
+|<img src="https://user-images.githubusercontent.com/60619133/109376269-614bc200-78e9-11eb-9c8a-d549e0363d77.png" alt="example" width = "220">|
+
+
+
 
 ## Getting Started
 
