@@ -1,8 +1,7 @@
 # Profile Screen UI Challenge
 
-|<img src="https://user-images.githubusercontent.com/60619133/109376268-601a9500-78e9-11eb-9626-b3c59c5b8e4e.png" alt="example" width = "220">|
-|<img src="https://user-images.githubusercontent.com/60619133/109376269-614bc200-78e9-11eb-9c8a-d549e0363d77.png" alt="example" width = "220">|
-
+|<img src="https://user-images.githubusercontent.com/60619133/113561839-d914b700-9622-11eb-8d31-79dbaab7c0bd.png" alt="example" width = "220">|
+|<img src="https://user-images.githubusercontent.com/60619133/113561844-db771100-9622-11eb-993f-f72e716cde9a.png" alt="example" width = "220">|
 
 
 
